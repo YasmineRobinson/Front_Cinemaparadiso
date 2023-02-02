@@ -1,3 +1,3 @@
 # Front_Cinemaparadiso
 
-Replit-Demo(https://FrontCinemaparadiso.yasminerobinson.repl.co)
+Replit-Demo(https://frontcinemaparadiso-1.yasminerobinson.repl.co/)
